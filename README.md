@@ -1,4 +1,4 @@
-# Residential Complaint-Management-System
+# Complaint_management_system
 
 This is a Python Tkinter based project.
 <br>
